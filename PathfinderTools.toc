@@ -1,0 +1,8 @@
+## Interface: 11302
+## Title: Pathfinder Tools
+## Notes: Guild management Tools
+## Author: deep160
+## Version: 0.1
+
+PathfinderTools.lua
+PathfinderToolsConfigFrame.xml
