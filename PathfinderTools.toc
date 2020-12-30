@@ -3,6 +3,7 @@
 ## Notes: Guild management Tools
 ## Author: deep160
 ## Version: 0.1
+## SavedVariables: PathfinderToolsDB
 
 PathfinderTools.lua
 PathfinderToolsConfigFrame.xml
